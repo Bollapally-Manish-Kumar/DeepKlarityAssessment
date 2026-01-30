@@ -1,0 +1,126 @@
+{
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "title": "Alan Turing",
+    "summary": "Alan Mathison Turing OBE FRS was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer.",
+    "key_entities": {
+        "people": [
+            "Alan Turing",
+            "Alonzo Church",
+            "Max Newman"
+        ],
+        "organizations": [
+            "University of Cambridge",
+            "Bletchley Park",
+            "National Physical Laboratory"
+        ],
+        "locations": [
+            "United Kingdom",
+            "London",
+            "Manchester"
+        ]
+    },
+    "sections": [
+        "Early life and education",
+        "Career and research",
+        "Cryptanalysis",
+        "Computing",
+        "Artificial intelligence",
+        "Personal life",
+        "Death"
+    ],
+    "quiz": [
+        {
+            "question": "Where did Alan Turing study mathematics?",
+            "options": [
+                "Harvard University",
+                "University of Cambridge",
+                "Oxford University",
+                "Princeton University"
+            ],
+            "answer": "University of Cambridge",
+            "difficulty": "easy",
+            "explanation": "Mentioned in the 'Early life and education' section - Turing studied at King's College, Cambridge."
+        },
+        {
+            "question": "What was Alan Turing's main contribution during World War II?",
+            "options": [
+                "Atomic research",
+                "Breaking the Enigma code",
+                "Inventing radar",
+                "Developing jet engines"
+            ],
+            "answer": "Breaking the Enigma code",
+            "difficulty": "medium",
+            "explanation": "Detailed in the 'Cryptanalysis' section - Turing played a crucial role in breaking German Enigma machine ciphers at Bletchley Park."
+        },
+        {
+            "question": "What theoretical machine did Turing conceptualize that became foundational to computer science?",
+            "options": [
+                "The Difference Engine",
+                "The Turing Machine",
+                "The ENIAC",
+                "The Analytical Engine"
+            ],
+            "answer": "The Turing Machine",
+            "difficulty": "easy",
+            "explanation": "The Turing machine is described in the summary as Turing's formalization of the concepts of algorithm and computation."
+        },
+        {
+            "question": "In which year was Alan Turing born?",
+            "options": [
+                "1910",
+                "1912",
+                "1915",
+                "1920"
+            ],
+            "answer": "1912",
+            "difficulty": "medium",
+            "explanation": "Mentioned in the 'Early life' section - Turing was born on 23 June 1912."
+        },
+        {
+            "question": "What famous test did Turing propose to determine machine intelligence?",
+            "options": [
+                "The Intelligence Quotient Test",
+                "The Turing Test",
+                "The Machine Learning Test",
+                "The Artificial Intelligence Assessment"
+            ],
+            "answer": "The Turing Test",
+            "difficulty": "easy",
+            "explanation": "Explained in the 'Artificial intelligence' section as Turing's measure of machine intelligence."
+        },
+        {
+            "question": "What was the name of the electromechanical machine Turing helped develop to decrypt Enigma messages?",
+            "options": [
+                "Colossus",
+                "Bombe",
+                "ENIAC",
+                "Manchester Mark 1"
+            ],
+            "answer": "Bombe",
+            "difficulty": "hard",
+            "explanation": "Detailed in the 'Cryptanalysis' section - The Bombe was an electromechanical device used at Bletchley Park."
+        },
+        {
+            "question": "Where did Turing work on early computer development after World War II?",
+            "options": [
+                "MIT",
+                "National Physical Laboratory",
+                "Bell Labs",
+                "IBM Research"
+            ],
+            "answer": "National Physical Laboratory",
+            "difficulty": "hard",
+            "explanation": "Mentioned in the 'Computing' section - Turing worked at the National Physical Laboratory designing the ACE."
+        }
+    ],
+    "related_topics": [
+        "Cryptography",
+        "Enigma machine",
+        "Computer science history",
+        "Artificial intelligence",
+        "Bletchley Park",
+        "Turing Award"
+    ]
+}

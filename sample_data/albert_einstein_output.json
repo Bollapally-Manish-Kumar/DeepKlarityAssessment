@@ -1,0 +1,126 @@
+{
+    "id": 2,
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "title": "Albert Einstein",
+    "summary": "Albert Einstein was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. He is best known for developing the theory of relativity, but he also made important contributions to quantum mechanics. His work is also known for its influence on the philosophy of science.",
+    "key_entities": {
+        "people": [
+            "Albert Einstein",
+            "Max Planck",
+            "Niels Bohr"
+        ],
+        "organizations": [
+            "ETH Zurich",
+            "Princeton University",
+            "Kaiser Wilhelm Institute"
+        ],
+        "locations": [
+            "Germany",
+            "Switzerland",
+            "United States",
+            "Ulm"
+        ]
+    },
+    "sections": [
+        "Early life",
+        "Education",
+        "Career",
+        "Scientific contributions",
+        "Later years",
+        "Death and legacy"
+    ],
+    "quiz": [
+        {
+            "question": "In which city was Albert Einstein born?",
+            "options": [
+                "Berlin",
+                "Munich",
+                "Ulm",
+                "Zurich"
+            ],
+            "answer": "Ulm",
+            "difficulty": "medium",
+            "explanation": "Mentioned in the 'Early life' section - Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire."
+        },
+        {
+            "question": "What is Einstein most famous for developing?",
+            "options": [
+                "Quantum mechanics",
+                "The theory of relativity",
+                "Nuclear fission",
+                "The Bohr model"
+            ],
+            "answer": "The theory of relativity",
+            "difficulty": "easy",
+            "explanation": "Stated in the summary - Einstein is best known for developing the theory of relativity."
+        },
+        {
+            "question": "In which year did Einstein receive the Nobel Prize in Physics?",
+            "options": [
+                "1905",
+                "1915",
+                "1921",
+                "1935"
+            ],
+            "answer": "1921",
+            "difficulty": "medium",
+            "explanation": "Mentioned in the 'Career' section - Einstein received the Nobel Prize in 1921 for his explanation of the photoelectric effect."
+        },
+        {
+            "question": "What university did Einstein attend in Switzerland?",
+            "options": [
+                "University of Geneva",
+                "ETH Zurich",
+                "University of Basel",
+                "University of Bern"
+            ],
+            "answer": "ETH Zurich",
+            "difficulty": "medium",
+            "explanation": "Detailed in the 'Education' section - Einstein studied at the Swiss Federal Polytechnic (ETH Zurich)."
+        },
+        {
+            "question": "What famous equation is associated with Einstein's theory of special relativity?",
+            "options": [
+                "F = ma",
+                "E = mc²",
+                "PV = nRT",
+                "a² + b² = c²"
+            ],
+            "answer": "E = mc²",
+            "difficulty": "easy",
+            "explanation": "This mass-energy equivalence formula is one of Einstein's most famous contributions from special relativity."
+        },
+        {
+            "question": "Where did Einstein spend the last years of his life?",
+            "options": [
+                "Berlin, Germany",
+                "Princeton, New Jersey",
+                "Zurich, Switzerland",
+                "London, England"
+            ],
+            "answer": "Princeton, New Jersey",
+            "difficulty": "medium",
+            "explanation": "Mentioned in 'Later years' - Einstein lived in Princeton, working at the Institute for Advanced Study."
+        },
+        {
+            "question": "For which phenomenon did Einstein receive the Nobel Prize?",
+            "options": [
+                "Theory of relativity",
+                "Photoelectric effect",
+                "Brownian motion",
+                "Gravitational waves"
+            ],
+            "answer": "Photoelectric effect",
+            "difficulty": "hard",
+            "explanation": "Contrary to popular belief, Einstein received his Nobel Prize for explaining the photoelectric effect, not relativity."
+        }
+    ],
+    "related_topics": [
+        "Theory of relativity",
+        "Quantum mechanics",
+        "Nobel Prize in Physics",
+        "Photoelectric effect",
+        "Princeton University",
+        "General relativity"
+    ]
+}
