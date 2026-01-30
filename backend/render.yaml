@@ -1,0 +1,16 @@
+# Render deployment configuration
+# https://render.com/docs/deploy-fastapi
+
+services:
+  - type: web
+    name: wiki-quiz-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
